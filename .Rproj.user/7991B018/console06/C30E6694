@@ -1,0 +1,29 @@
+[0m[0K]0;:/c/Users/wmm0017/Projects/QMER/Rbootcamp[?25l
+[0;32mAUBURN+wmm0017@HC4064-N1 [0;35m [0;33m~/Projects/QMER/Rbootcamp[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[3G[?25h[4G[?25l$ gi[0K[?25ht[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
+[0K[?25hInitialized empty Git repository in C:/Users/wmm0017/Projects/QMER/Rbootcamp/.git/[0K[?25l
+[0K[?25h[?25l
+[0;32mAUBURN+wmm0017@HC4064-N1 [0;35m [0;33m~/Projects/QMER/Rbootcamp[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add R[0K[?25hE[0KADME.md[0K[21G[?25l
+[0K[?25h[?25l
+[0;32mAUBURN+wmm0017@HC4064-N1 [0;35m [0;33m~/Projects/QMER/Rbootcamp[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+[0K
+No commits yet[0K
+[0K
+Changes to be committed:[0K
+  (use "git rm --cached <file>..." to unstage)[0K
+[0K
+        [0;32mnew file:   README.md[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/[0m[0K
+        [0;31mRbootcamp.Rproj[0m[0K
+[0K
+[0K[?25h[?25l
+[0;32mAUBURN+wmm0017@HC4064-N1 [0;35m [0;33m~/Projects/QMER/Rbootcamp[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25h
