@@ -1,0 +1,42 @@
+.gdbar img {
+  width: 200px !important;
+  height: 200px !important;
+  margin: 8px 8px;
+}
+
+.gdbar {
+  width: 400px !important;
+  height: 220px !important;
+}
+
+.title-slide {
+ background-color: rgb(3, 36, 77); 
+ color: orange; 
+}
+
+slides > slide.title-slide hgroup h1,
+/*slides > slide hgroup h2, */
+slides > slide.title-slide hgroup .author, 
+slides > slide.title-slide hgroup .date {
+    color: rgb(246, 128, 38);
+}
+
+
+<style>
+    footer {
+        position: fixed;
+        height: 300px;
+        width: 100%;
+        background-color: #333333;
+    }
+
+    p.copyright {
+        position: fixed;
+        width: 100%;
+        color: #fff;
+        line-height: 10px;
+        font-size: 0.4em;
+        text-align: center;
+        bottom:0;
+    }
+</style>

@@ -26,4 +26,90 @@ Untracked files:[0K
 [0K[?25h[?25l
 [0;32mAUBURN+wmm0017@HC4064-N1 [0;35m [0;33m~/Projects/QMER/Rbootcamp[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/7991B018/sources/prop/F7E8BF05.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/7991B018/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/7991B018/sources/s-28E015F2/C5E9D15A.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/7991B018/sources/s-28E015F2/C5E9D15A-contents.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25l
+[0;32mAUBURN+wmm0017@HC4064-N1 [0;35m [0;33m~/Projects/QMER/Rbootcamp[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hti[0K[7G[?25l$ gti s[0K[?25h[?25l$ gti[0K[7G[?25h[6G[?25l$ gt[0K[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+[0K
+No commits yet[0K
+[0K
+Changes to be committed:[0K
+  (use "git rm --cached <file>..." to unstage)[0K
+[0K
+        [0;32mnew file:   .Rproj.user/7991B018/console06/C30E6694[0m[0K
+        [0;32mnew file:   .Rproj.user/7991B018/console06/INDEX001[0m[0K
+        [0;32mnew file:   .Rproj.user/7991B018/sources/prop/F7E8BF05[0m[0K
+        [0;32mnew file:   .Rproj.user/7991B018/sources/prop/INDEX[0m[0K
+        [0;32mnew file:   .Rproj.user/7991B018/sources/s-28E015F2/C5E9D15A[0m[0K
+        [0;32mnew file:   .Rproj.user/7991B018/sources/s-28E015F2/C5E9D15A-contents[0m[0K
+        [0;32mnew file:   .Rproj.user/7991B018/sources/s-28E015F2/lock_file[0m[0K
+        [0;32mnew file:   .Rproj.user/shared/notebooks/patch-chunk-names[0m[0K
+        [0;32mnew file:   README.md[0m[0K
+        [0;32mnew file:   Rbootcamp.Rproj[0m[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/7991B018/console06/C30E6694[0m[0K
+[0K
+[0K[?25h[?25l
+[0;32mAUBURN+wmm0017@HC4064-N1 [0;35m [0;33m~/Projects/QMER/Rbootcamp[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0K[?25lm[0K[10G[?25h[11G[?25l$ git commi[0K[?25ht[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hi[0Kn[0Ki[0Kt[0Ki[0Ka[0Kl[0K[26G[?25l$ git commit -m "initial c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K"[0K[?25l
+[0K[?25h[master (root-commit) 633aab5] initial commit[0K[?25l
+ 10 files changed, 76 insertions(+)[0K
+ create mode 100644 .Rproj.user/7991B018/console06/C30E6694[0K
+ create mode 100644 .Rproj.user/7991B018/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/7991B018/sources/prop/F7E8BF05[0K
+ create mode 100644 .Rproj.user/7991B018/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/7991B018/sources/s-28E015F2/C5E9D15A[0K
+ create mode 100644 .Rproj.user/7991B018/sources/s-28E015F2/C5E9D15A-contents[0K
+ create mode 100644 .Rproj.user/7991B018/sources/s-28E015F2/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 README.md[0K
+ create mode 100644 Rbootcamp.Rproj[0K
+[0K[?25h[?25l
+[0;32mAUBURN+wmm0017@HC4064-N1 [0;35m [0;33m~/Projects/QMER/Rbootcamp[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kv[0Ke[0K[14G[13G[?25l$ git remov[0K[?25h[?25l$ git remo[0K[?25ht[0Ke[0K[14G[?25l$ git remote a[0K[?25hd[0Kd[0K[18G[?25l$ git remote add o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[25G[?25l$ git remote add origin g[0K[?25hi[0Kt[0K@[0Kh[0Kt[0Ki[0Kh[0Ku[0K[?25l$ git remote add origin git@htih[0K[?25h[?25l$ git remote add origin git@hti[0K[?25h[?25l$ git remote add origin git@ht[0K[?25h[?25l$ git remote add origin git@h[0K[?25h[?25l$ git remote add origin git@[0K[?25hg[0Ki[0Kt[0Kh[0Ku[0Kb[0K.[0Kc[0Ko[0Km[0K:[0Ka[0Ku[0Kg[0K[?25l$ git remote add origin git@github.com:au[0K[?25hq[0K[?25lm[0K[43G[?25h[44G[?25l$ git remote add origin git@github.com:auqme[0K[?25hr[0K/[0KR[0Kb[0Ko[0Ko[0Kt[0Kc[0Ka[0Km[0Kp[0K.[0Kg[0Ki[0Kt[0K[?25l
+[0K[?25h[?25l
+[0;32mAUBURN+wmm0017@HC4064-N1 [0;35m [0;33m~/Projects/QMER/Rbootcamp[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push -[0K[?25hu[0K[15G[?25l$ git push -u o[0K[?25hr[0Kg[0Ki[0K[?25l$ git push -u org[0K[?25h[?25l$ git push -u or[0K[?25hi[0Kg[0Ki[0Kn[0K[22G[?25l$ git push -u origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hEnter passphrase for key '/c/Users/wmm0017/.ssh/id_rsa':[0K[58G[?25l
+[0K[?25hEnumerating objects: 18, done.[0K[?25l
+Counting objects: 100% (18/18), done.[0K
+Delta compression using up to 4 threads[0K
+Compressing objects: 100% (14/14), done.[0K
+Writing objects: 100% (18/18), 2.17 KiB | 554.00 KiB/s, done.[0K
+Total 18 (delta 0), reused 0 (delta 0)[0K
+[0K[?25hTo github.com:auqmer/Rbootcamp.git[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32mAUBURN+wmm0017@HC4064-N1 [0;35m [0;33m~/Projects/QMER/Rbootcamp[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Ku[0K[?25l$ git sta[0K[?25ht[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/7991B018/console06/C30E6694[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAUBURN+wmm0017@HC4064-N1 [0;35m [0;33m~/Projects/QMER/Rbootcamp[0;36m (master)[0m[0K
+]0;:/c/Users/wmm0017/Projects/QMER/Rbootcamp[?25l
+[0;32mAUBURN+wmm0017@HC4064-N1 [0;35m [0;33m~/Projects/QMER/Rbootcamp[0;36m (master)[0m[0K
+]0;:/c/Users/wmm0017/Projects/QMER/Rbootcamp[?25l
+[0;32mAUBURN+wmm0017@HC4064-N1 [0;35m [0;33m~/Projects/QMER/Rbootcamp[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
