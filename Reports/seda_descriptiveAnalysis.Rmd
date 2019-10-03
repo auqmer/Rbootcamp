@@ -1,0 +1,66 @@
+---
+title: "Exploring SEDA data"
+author: "William Murrah"
+date: "October 3, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+opts_chunk$set(echo = TRUE, comment = NULL)
+library(car)
+library(psych)
+```
+
+## Import Data
+
+```{r}
+seda <- read.csv("data/seda.csv", header = TRUE)
+```
+
+## Clean Data
+
+```{r}
+seda$grade <- factor(seda$grade, labels = 3:8)
+
+# Remove rows with missing countryid.
+seda <- seda[!is.na(seda$countyid), ]
+```
+
+
+
+
+## Summarize data
+
+The first step is to summarize the data to learn about data types and descriptive statistics.
+
+```{r, warning=FALSE}
+kable(summary(seda))
+
+kable(describe(seda[ ,unlist(lapply(seda, FUN = is.numeric))], fast = TRUE))
+```
+
+Next we look at outcomes by grade level.
+```{r}
+
+
+with(seda, 
+     hist(achv, col = "skyblue"))
+describeBy(seda$mfg, seda$grade, fast = TRUE)
+
+describeBy(seda$achv, seda$grade, fast = TRUE)
+
+mfgagg <- aggregate(mfg ~ grade, data = seda, FUN = mean)
+achvagg <- aggregate(achv ~ grade, data = seda, FUN = mean)
+
+mfgagg
+
+achvagg
+```
+
+```{r}
+plot(mfgagg, main = "Score Gaps in mfg")
+plot(achvagg, main = "Score Gaps in Achievement")
+```
+
+
